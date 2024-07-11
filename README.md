@@ -5,6 +5,7 @@ Design and programming enthusiast.
 
 #### Flutter/Dart projects
 
+- [flutter_shared_state](https://github.com/carllosnc/flutter_shared_state)
 - [expandy](https://github.com/carllosnc/expandy)
 - [gty](https://github.com/carllosnc/gty)
 - [hty](https://github.com/carllosnc/hty)
