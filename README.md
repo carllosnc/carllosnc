@@ -5,6 +5,21 @@ Design and code.
 
 ---
 
+<div>
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+
+<br/>
+
+
 - [**Resume Json**](https://github.com/carllosnc/resume-json)
 - [**Hty**](https://github.com/carllosnc/hty)
 - [**Bible Json**](https://github.com/carllosnc/bible_json)
@@ -15,3 +30,4 @@ Design and code.
 - [**ReFlutter**](https://github.com/carllosnc/reflutter) write Flutter as React.
 - [**GetMoov**](https://github.com/carllosnc/getmoov)
 - [**Steps**](https://github.com/carllosnc/steps)
+
