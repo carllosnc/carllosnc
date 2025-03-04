@@ -30,6 +30,6 @@ Currently, I design user interfaces, write JavaScript, TypeScript, Dart, and PHP
 - [**ReFlutter**](https://github.com/carllosnc/reflutter) write Flutter as React.
 - [**GetMoov**](https://github.com/carllosnc/getmoov)
 - [**Steps**](https://github.com/carllosnc/steps)
-- [**Try**](https://github.com/carllosnc/try-catch-utils)
+- [**try-catch-utils**](https://github.com/carllosnc/try-catch-utils)
 
 
