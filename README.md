@@ -23,6 +23,7 @@ Currently, I design user interfaces, write JavaScript, TypeScript, Dart, and PHP
 - [**Resume Json**](https://github.com/carllosnc/resume-json)
 - [**Hty**](https://github.com/carllosnc/hty)
 - [**Bible Json**](https://github.com/carllosnc/bible_json)
+- [**Bible Data**](https://github.com/carllosnc/bible-data)
 - [**One Stack**](https://github.com/carllosnc/one-stack)
 - [**Summy**](https://github.com/carllosnc/summy)
 - [**AIC**](https://github.com/carllosnc/aic)
