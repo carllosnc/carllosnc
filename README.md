@@ -20,7 +20,7 @@ Currently, I design user interfaces, write JavaScript, TypeScript, Dart, and PHP
 
 <br/>
 
-| Language | Project |
+| Lang | Project |
 |----------|---------|
 | JS/TS | [Resume Json](https://github.com/carllosnc/resume-json) |
 | JS/TS | [Bible Data](https://github.com/carllosnc/bible-data) |
