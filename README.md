@@ -5,19 +5,6 @@ Currently, I design user interfaces, write JavaScript, TypeScript, Dart, and PHP
 
 ---
 
-<div>
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img style="text-align: right" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
-
 <br/>
 
 | Lang | Project |
@@ -38,5 +25,6 @@ Currently, I design user interfaces, write JavaScript, TypeScript, Dart, and PHP
 | **Dart/Flutter** | [Steps](https://github.com/carllosnc/steps) |
 | **Dart/Flutter** | [Try-Dart](https://github.com/carllosnc/try-dart) |
 | **Dart/Flutter** | [Gty](https://github.com/carllosnc/gty) |
+| **Dart/Flutter** | [Reactive Preferences](https://github.com/carllosnc/reactive_preferences)
 | **C#** | [Bible Json](https://github.com/carllosnc/bible_json) |
 | **Python** | [AIC](https://github.com/carllosnc/aic) |
