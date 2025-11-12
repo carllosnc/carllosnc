@@ -1,5 +1,5 @@
 # Carlos Costa
-Currently, I design user interfaces, write JavaScript, TypeScript, Dart, and PHP, and develop apps using React, Flutter, Laravel, Next.js, and other tools.
+> Programming and Design: Frontend, Mobile, UI/UX
 
 [**Web site**](https://www.carlosnc.site/) • [**Github**](https://github.com/carllosnc) • [**Dribbble**](https://dribbble.com/carllosnc) • [**Behance**](https://www.behance.net/carllosnc) • [**Linkedin**](https://www.linkedin.com/in/carlos-costa-340a61207/) • [**My apps on Google Play**](https://play.google.com/store/apps/developer?id=Carlos+NC&hl=pt_BR&gl=US)
 
