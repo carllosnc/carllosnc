@@ -26,5 +26,6 @@
 | **Dart/Flutter** | [Try-Dart](https://github.com/carllosnc/try-dart) |
 | **Dart/Flutter** | [Gty](https://github.com/carllosnc/gty) |
 | **Dart/Flutter** | [Reactive Preferences](https://github.com/carllosnc/reactive_preferences)
+| **Dart/Flutter** | [Flex Field](https://github.com/carllosnc/flex_field)
 | **C#** | [Bible Json](https://github.com/carllosnc/bible_json) |
 | **Python** | [AIC](https://github.com/carllosnc/aic) |
