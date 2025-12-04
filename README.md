@@ -29,3 +29,7 @@
 | **Dart/Flutter** | [Flex Field](https://github.com/carllosnc/flex_field)
 | **C#** | [Bible Json](https://github.com/carllosnc/bible_json) |
 | **Python** | [AIC](https://github.com/carllosnc/aic) |
+
+https://comps-react.vercel.app/
+https://docmee.vercel.app/
+https://summmy.vercel.app/
