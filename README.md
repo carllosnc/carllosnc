@@ -29,6 +29,7 @@
 | **Dart/Flutter** | [Flex Field](https://github.com/carllosnc/flex_field)
 | **C#** | [Bible Json](https://github.com/carllosnc/bible_json) |
 | **Python** | [AIC](https://github.com/carllosnc/aic) |
+| **Jetpack Compose** | [Seeno](https://github.com/carllosnc/seeno) |
 
 https://comps-react.vercel.app/
 
