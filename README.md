@@ -9,13 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.carlosnc.site/"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/carllosnc"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://dribbble.com/carllosnc"><img src="https://img.shields.io/badge/Dribbble-111111?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
-  <a href="https://www.behance.net/carllosnc"><img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-  <a href="https://www.linkedin.com/in/carlos-costa-340a61207/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://play.google.com/store/apps/developer?id=Carlos+NC&hl=pt_BR&gl=US"><img src="https://img.shields.io/badge/Google_Play-111111?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a>
+  <a href="https://www.carlosnc.site/"><img src="https://img.shields.io/badge/Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/carllosnc"><img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://dribbble.com/carllosnc"><img src="https://img.shields.io/badge/Dribbble-2563eb?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
+  <a href="https://www.behance.net/carllosnc"><img src="https://img.shields.io/badge/Behance-2563eb?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://www.linkedin.com/in/carlos-costa-340a61207/"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://play.google.com/store/apps/developer?id=Carlos+NC&hl=pt_BR&gl=US"><img src="https://img.shields.io/badge/Google_Play-2563eb?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/typescript/2563eb" width="28" height="28" alt="TypeScript" title="TypeScript">
