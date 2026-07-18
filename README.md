@@ -15,27 +15,31 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/typescript/2563eb" width="24" height="24" alt="TypeScript" title="TypeScript">
+  <img src="https://cdn.simpleicons.org/typescript/2563eb" width="28" height="28" alt="TypeScript" title="TypeScript">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/2563eb" width="24" height="24" alt="JavaScript" title="JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/2563eb" width="28" height="28" alt="JavaScript" title="JavaScript">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/react/2563eb" width="24" height="24" alt="React" title="React">
+  <img src="https://cdn.simpleicons.org/react/2563eb" width="28" height="28" alt="React" title="React">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/angular/2563eb" width="24" height="24" alt="Angular" title="Angular">
+  <img src="https://cdn.simpleicons.org/angular/2563eb" width="28" height="28" alt="Angular" title="Angular">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/svelte/2563eb" width="24" height="24" alt="Svelte" title="Svelte">
+  <img src="https://cdn.simpleicons.org/svelte/2563eb" width="28" height="28" alt="Svelte" title="Svelte">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/vuedotjs/2563eb" width="24" height="24" alt="Vue" title="Vue">
+  <img src="https://cdn.simpleicons.org/vuedotjs/2563eb" width="28" height="28" alt="Vue" title="Vue">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/2563eb" width="24" height="24" alt="Node.js" title="Node.js">
+  <img src="https://cdn.simpleicons.org/nodedotjs/2563eb" width="28" height="28" alt="Node.js" title="Node.js">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/2563eb" width="24" height="24" alt="Flutter" title="Flutter">
+  <img src="https://cdn.simpleicons.org/php/2563eb" width="28" height="28" alt="PHP" title="PHP">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/dart/2563eb" width="24" height="24" alt="Dart" title="Dart">
+  <img src="https://cdn.simpleicons.org/laravel/2563eb" width="28" height="28" alt="Laravel" title="Laravel">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/2563eb" width="24" height="24" alt="Kotlin" title="Kotlin">
+  <img src="https://cdn.simpleicons.org/flutter/2563eb" width="28" height="28" alt="Flutter" title="Flutter">
   &nbsp;
-  <img src="https://cdn.simpleicons.org/figma/2563eb" width="24" height="24" alt="Figma" title="Figma">
+  <img src="https://cdn.simpleicons.org/dart/2563eb" width="28" height="28" alt="Dart" title="Dart">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kotlin/2563eb" width="28" height="28" alt="Kotlin" title="Kotlin">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/figma/2563eb" width="28" height="28" alt="Figma" title="Figma">
 </p>
 
 ---
