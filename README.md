@@ -15,14 +15,27 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://cdn.simpleicons.org/typescript/2563eb" width="24" height="24" alt="TypeScript" title="TypeScript">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/2563eb" width="24" height="24" alt="JavaScript" title="JavaScript">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/react/2563eb" width="24" height="24" alt="React" title="React">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/angular/2563eb" width="24" height="24" alt="Angular" title="Angular">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/svelte/2563eb" width="24" height="24" alt="Svelte" title="Svelte">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vuedotjs/2563eb" width="24" height="24" alt="Vue" title="Vue">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/2563eb" width="24" height="24" alt="Node.js" title="Node.js">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/2563eb" width="24" height="24" alt="Flutter" title="Flutter">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/dart/2563eb" width="24" height="24" alt="Dart" title="Dart">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kotlin/2563eb" width="24" height="24" alt="Kotlin" title="Kotlin">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/figma/2563eb" width="24" height="24" alt="Figma" title="Figma">
 </p>
 
 ---
