@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/logo.png" width="70" alt="Carlos Costa logo">
+</p>
 <h1 align="center">Carlos Costa</h1>
 
 <p align="center">
