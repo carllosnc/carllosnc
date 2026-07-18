@@ -71,11 +71,3 @@ Developer and designer from Natal/RN, Brazil. I work with **frontend web**, **Fl
 - **Jetpack Compose:** [Seeno](https://github.com/carllosnc/seeno)
 
 </details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carllosnc&show_icons=true&theme=default&count_private=true" alt="GitHub stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carllosnc&layout=compact&theme=default" alt="Top languages">
-</p>
