@@ -44,6 +44,8 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/kotlin/2563eb" width="28" height="28" alt="Kotlin" title="Kotlin">
   &nbsp;
+  <img src="https://cdn.simpleicons.org/android/2563eb" width="28" height="28" alt="Android" title="Android">
+  &nbsp;
   <img src="https://cdn.simpleicons.org/figma/2563eb" width="28" height="28" alt="Figma" title="Figma">
 </p>
 
