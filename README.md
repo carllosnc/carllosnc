@@ -58,6 +58,15 @@ Developer and designer from Natal/RN, Brazil. I work with **frontend web**, **Fl
 ### More Projects
 
 <details>
+<summary><b>API SDKs</b></summary>
+
+- [TMDB SDK](https://github.com/carllosnc/tmdb-sdk)
+- [IGDB SDK](https://github.com/carllosnc/igdb-sdk)
+- [Discogs SDK](https://github.com/carllosnc/discogs-sdk)
+
+</details>
+
+<details>
 <summary><b>Web / JavaScript / TypeScript</b></summary>
 
 - [Resume Json](https://github.com/carllosnc/resume-json)
