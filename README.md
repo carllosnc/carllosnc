@@ -60,6 +60,7 @@ Developer and designer from Natal/RN, Brazil. I work with **frontend web**, **Fl
 - [TMDB SDK](https://github.com/carllosnc/tmdb-sdk)
 - [IGDB SDK](https://github.com/carllosnc/igdb-sdk)
 - [Discogs SDK](https://github.com/carllosnc/discogs-sdk)
+- [Metadata API](https://github.com/carllosnc/metadata-api)
 - [Flutter Shared State](https://github.com/carllosnc/flutter_shared_state)
 - [Pulse DB](https://github.com/carllosnc/pulse_db)
 - [Imgy](https://github.com/carllosnc/imgy)
